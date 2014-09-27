@@ -3,7 +3,7 @@
 //  iBall3
 //
 //  Created by Ron Coleman on 12/14/12.
-//  Copyright               Ron Coleman 2012-2014. All rights reserved.
+//  Copyright  Ron Coleman 2012-2014. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
