@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="30" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Blocks" tilewidth="16" tileheight="16">
+  <image source="block2.PNG" width="32" height="16"/>
+ </tileset>
+ <layer name="bg" width="80" height="30" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3QAQkAQRDEsD3/pl/GBL6FGsi7uwevt/bJLz95vbVPfvnJ66198stPXm/tk19+8nprn/zyk9db++SXn7ze2ie//OT11j755Sevt/bJLz95vbVPfv/2+wCRfdaogCUAAA==
+  </data>
+ </layer>
+ <layer name="platforms" width="80" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2YQQ6AIAwEDf9/tPGkiYEC29JFdxIuxmoZWyCWQyCU7AQ2R/4w5A9D/voojTESJ27kBEP+2lh95+Hvz/09sx6KG/nCkL83I30ofxhR/v6ynn59ftGw7b9Zucy+L9uXBXNuF17+omqGpS9qWHl55T8by+jsyarvyujPqy4y/Vn1XSr3spDtLypuFciePRIrf/h7vOLQPvZcB1adn1nq7zk/z3+fTESfJa1rvc9h3M92Q/4w5A+jtn9o9I8T6pQr3IAlAAA=
+  </data>
+ </layer>
+</map>
